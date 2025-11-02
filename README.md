@@ -30,7 +30,7 @@
 ## 🚀 Live Demo
 
 Check out the live site here:  
-[https://pawductive-shivathmika55555.vercel.app](https://pawductive-shivathmika55555.vercel.app)  
+[https://pawductive-shivathmika55555.vercel.app](https://pawductive.vercel.app)  
 
 ---
 
